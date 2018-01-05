@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeAlert</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="btn_get_location">ESTOY ASALVO</string>
+
+</resources>
